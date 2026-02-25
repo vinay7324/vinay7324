@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinay Giri</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="Right" alt="Data Analytics" width="400" src="https://www.refontelearning.com/blog/top-7-entry-level-data-analytics-jobs-you-can-land-in-2025">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay7324&label=Profile%20views&color=0e75b6&style=flat" alt="vinay7324" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinay7324" alt="vinay7324" /></a> </p>
