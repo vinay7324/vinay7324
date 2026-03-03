@@ -24,6 +24,40 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+## Business Problem
+
+Organizations manage multiple projects across employees and need to track performance, project outcomes, and overall costs.  
+This project analyzes employee and project data to understand project success rates, employee contributions, and the total cost handled by each employee.
+
+The analysis helps management evaluate employee performance and identify potential promotions or demotions based on project outcomes.
+
+## Key Insights
+
+- Employees managing multiple successful projects handle higher project costs.
+- Failed projects impact employee designation level.
+- Promotions can be determined based on age and project performance.
+- The analysis helps identify employees responsible for the highest project budgets.
+
+  ## How to Run This Project
+
+1. Clone the repository
+
+git clone https://github.com/vinay7324/python-project-management-analysis.git
+
+2. Install dependencies
+
+pip install -r requirements.txt
+
+3. Open the Jupyter Notebook
+
+jupyter notebook notebooks/Final.ipynb
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-lightgrey)
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinay7324&show_icons=true&locale=en&layout=compact" alt="vinay7324" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinay7324&show_icons=true&locale=en" alt="vinay7324" /></p>
