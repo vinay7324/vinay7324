@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Excel | Data Analyst | Google Sheets Expert | Power BI | Python**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/vinay-giri-data-analyst-1261a3162](www.linkedin.com/in/vinay-giri-data-analyst-1261a3162) and [https://github.com/vinay7324].(https://github.com/vinay7324)
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/vinay-giri-data-analyst-1261a3162](www.linkedin.com/in/vinay-giri-data-analyst-1261a3162) and https://github.com/vinay7324.
 
 - 💬 Ask me about **Power BI projects, Ecommerce analytics, Dashboard design, DAX calculations and Data storytelling**
 
