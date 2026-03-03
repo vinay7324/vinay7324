@@ -15,51 +15,63 @@
 
 - ⚡ Fun fact **I enjoy turning messy data into meaningful insights and interactive dashboards**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vinay-giri-data-analyst-1261a3162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay-giri-data-analyst-1261a3162" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/122001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="122001" height="30" width="40" /></a>
-</p>
+## 📊 Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- Power BI
+- SQL
+- Python
+- Pandas
+- NumPy
+- Data Visualization
+- Data Cleaning
+- Exploratory Data Analysis
 
-## Business Problem
+---
 
-Organizations manage multiple projects across employees and need to track performance, project outcomes, and overall costs.  
-This project analyzes employee and project data to understand project success rates, employee contributions, and the total cost handled by each employee.
+## 🛠 Tools & Technologies
 
-The analysis helps management evaluate employee performance and identify potential promotions or demotions based on project outcomes.
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![SQL](https://img.shields.io/badge/SQL-Database-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Manipulation-lightgrey)
 
-## Key Insights
+---
 
-- Employees managing multiple successful projects handle higher project costs.
-- Failed projects impact employee designation level.
-- Promotions can be determined based on age and project performance.
-- The analysis helps identify employees responsible for the highest project budgets.
+## 📂 Featured Projects
 
-  ## How to Run This Project
+### 📈 ShopNest E-Commerce Analytics Dashboard
+Power BI dashboard analyzing sales performance, delivery efficiency, payment methods, and regional trends.
 
-1. Clone the repository
+🔗 Repository  
+https://github.com/vinay7324/shopnest-ecommerce-analytics
 
-git clone https://github.com/vinay7324/python-project-management-analysis.git
+---
 
-2. Install dependencies
+### 🐍 Python Project Management Analysis
+Python project analyzing employee project performance using Pandas and NumPy.
 
-pip install -r requirements.txt
+🔗 Repository  
+https://github.com/vinay7324/python-project-management-analysis
 
-3. Open the Jupyter Notebook
+---
 
-jupyter notebook notebooks/Final.ipynb
+## 📊 What I Focus On
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-lightgrey)
+- Data Analytics
+- Business Intelligence
+- Dashboard Development
+- Data Storytelling
 
+---
 
+## 📫 Connect With Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinay7324&show_icons=true&locale=en&layout=compact" alt="vinay7324" /></p>
+LinkedIn  
+https://www.linkedin.com/in/vinay-giri-data-analyst-1261a3162 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinay7324&show_icons=true&locale=en" alt="vinay7324" /></p>
+GitHub  
+https://github.com/vinay7324
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinay7324&" alt="vinay7324" /></p>
+---
+
+⭐ Always learning and building new data analytics projects.
